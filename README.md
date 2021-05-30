@@ -4,7 +4,7 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Jonatas Viana Nascimento</h1>
 <p align = "justify">Front-end Developer, JavaScript and SPA fan, Performance curious, @react expert.</p>
 
-I currently work at Serpro [SERPRO](https://www.serpro.gov.b)
+<!-- I currently work at Serpro [SERPRO](https://www.serpro.gov.b) -->
 
 I'm learning at the moment **ReactJS, Node, C#**
 <!-- 

@@ -6,7 +6,7 @@
 
 I currently work at Serpro [SERPRO](https://www.serpro.gov.b)
 
-I'm learning at the moment **ReactNative, ReactJS, Deno**
+I'm learning at the moment **ReactJS, Node, C#**
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-natansl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)](https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)

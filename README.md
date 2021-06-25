@@ -1,6 +1,6 @@
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Jonatas Viana Nascimento</h1>
-<p align = "justify">Front-end Developer, JavaScript and SPA fan, Performance curious, @react expert.</p>
+<p align = "justify">Front-end Developer, JavaScript and SPA fan, Performance curious, @react fan.</p>
 
 I currently work at[!Elis Brasil](**https://www.elisbrasil.gov.br**)
 
@@ -28,8 +28,6 @@ I'm learning at the moment **ReactJS, Node, C#**
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitHub](https://img.shields.io/badge/-JQuery-181717?style=flat-square&logo=Jquery)
-![GitHub](https://img.shields.io/badge/-Webpack-181717?style=flat-square&logo=webpack)
-![GitHub](https://img.shields.io/badge/-Gulp-181717?style=flat-square&logo=gulp)
 
 
 ## ⚡ GitHub Stats

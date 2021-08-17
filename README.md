@@ -6,6 +6,9 @@ I currently work at[!Elis Brasil](**https://www.elisbrasil.gov.br**)
 
 I'm learning at the moment **ReactJS, Node, C#**
 
+I'm currently learning C# because the company I work with meche this language.
+Also learning Python through college
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-jonatasvn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jonatas-viana-nascimento)](https://www.linkedin.com/in/jonatas-viana-nascimento)
 [![Instagram Badge](https://img.shields.io/badge/-jonatasvn-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jonatasvnascimento/)](https://www.instagram.com/jonatasvnascimento/)

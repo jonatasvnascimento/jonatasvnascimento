@@ -1,6 +1,6 @@
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Jonatas Viana Nascimento</h1>
-<p align = "justify">Back-end Developer, C#, JavaScript and SPA fan, Performance curious, @react and blazor fan.</p>
+<p align = "justify">Back-end Developer, Currently studying C# for both web and desktop, creating simple crud and ecommerces, JavaScript and SPA fan, Performance curious, @react and @blazor fan.</p>
 
 I currently work at[!Elis Brasil](**https://www.elisbrasil.gov.br**)
 

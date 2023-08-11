@@ -37,7 +37,6 @@ Also learning Python through college
 <!-- ![VB](https://img.shields.io/badge/VB-%2300599C.svg?style=for-the-badge&logo=VB&logoColor=white) -->
 <!-- ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white) -->
 -->
-
 ## 🚀💻 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

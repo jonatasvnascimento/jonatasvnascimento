@@ -67,7 +67,7 @@ Also learning Python through college
 
 ## ⚡ GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jonatasvnascimento&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jonatasvnascimento&show_icons=true&count_private=false&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasvnascimento&hide=TeX&layout=compact)
 
 

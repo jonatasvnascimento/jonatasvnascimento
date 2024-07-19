@@ -1,6 +1,6 @@
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Jonatas Viana Nascimento</h1>
-<p align = "justify">Full-Stack Developer, Currently studying C# for both web and desktop, creating simple crud and ecommerces, JavaScript and SPA fan, Performance curious, @react and @blazor fan.</p>
+<p align = "justify">Backend Developer, Currently studying C# for both web and desktop, creating simple crud and ecommerces, JavaScript and SPA fan, Performance curious, @react and @blazor fan.</p>
 
 I currently work at[!Elis Brasil](**https://www.elisbrasil.gov.br**)
 
@@ -36,7 +36,7 @@ Also learning Python through college
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 <!-- ![VB](https://img.shields.io/badge/VB-%2300599C.svg?style=for-the-badge&logo=VB&logoColor=white) -->
 <!-- ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white) -->
--->
+
 ## 🚀💻 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

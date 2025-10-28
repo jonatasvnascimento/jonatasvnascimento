@@ -4,7 +4,7 @@
 
 I currently work at[!Elis Brasil](**https://www.elisbrasil.gov.br**)
 
-I'm learning at the moment **ReactJS, Node, C#**
+I'm learning at the moment **C#, ReactJS, NextJS and TypeScript**
 
 I'm currently learning C# because the company I work with meche this language.
 Also learning Python through college
